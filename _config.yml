@@ -1,0 +1,18 @@
+name: R&D
+analytics: {}
+content_rating:
+  adult: false
+github: true
+opengraph: {}
+author: {}
+color:
+  lightness: 0.6942761728293906
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  saturation: 0.3300415164162501
+  brandStrength: 0.666783883624427
+  rhythmicContrast: 0.5012148966782761
